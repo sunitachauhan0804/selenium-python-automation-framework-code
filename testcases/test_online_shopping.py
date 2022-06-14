@@ -21,11 +21,11 @@ class TestOnlineShopping:
     def test_admin_login_form(self):
         admin_automation.admin_form(self.driver)
 
-    def test_product(self):
-        product_automation.click_product_menu(self.driver)
+    #def test_product(self):
+     #   product_automation.click_product_menu(self.driver)
 
-   # def test_order(self):
-    #    order_automation.click_order_menu(self.driver)
+    def test_order(self):
+        order_automation.click_order_menu(self.driver)
 
     #def test_customer(self):
      #   customer_automation.click_customer_menu(self.driver)
