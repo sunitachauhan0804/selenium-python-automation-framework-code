@@ -1,0 +1,9 @@
+product_name_text_field = 'pname'  # by name
+product_price_text_field = 'price'   # by name
+product_description_text_field = '/html/body/div[2]/div/div[2]/div/div/div[2]/form/div[3]/input'
+product_mrp_price_text_field = 'mprice'
+Product_status_drop_down = 'status'
+product_category_drop_down = 'category'
+product_choose_file = 'uploadLogo'
+add_product_button = '/html/body/div[2]/div/div[2]/div/div/div[2]/form/button[1]'
+reset_button = '/html/body/div[2]/div/div[2]/div/div/div[2]/form/button[2]'
